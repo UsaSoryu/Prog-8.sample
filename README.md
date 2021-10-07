@@ -1,1 +1,1 @@
-# UsaSoryu.github.io
+# UsaSoryu.github.io/Prog-8.sample/
